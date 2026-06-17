@@ -1,0 +1,13 @@
+facility,department,incident_id,osha_recordable,total_cost_with_fines_usd,preventable
+Facility A - Production,Engineering,110,24,1986047.0,85
+Facility A - Production,HSE Department,116,32,2762564.0,83
+Facility A - Production,Logistics,108,29,2181114.0,89
+Facility A - Production,Maintenance,96,28,2406442.0,73
+Facility A - Production,Production Operations,92,28,1776875.0,71
+Facility A - Production,Workshop,81,19,1353494.0,68
+Facility B - Maintenance,Engineering,97,23,1298820.0,77
+Facility B - Maintenance,HSE Department,109,35,2096869.0,79
+Facility B - Maintenance,Logistics,95,35,2470315.0,78
+Facility B - Maintenance,Maintenance,95,34,2409556.0,77
+Facility B - Maintenance,Production Operations,100,27,1968043.0,80
+Facility B - Maintenance,Workshop,101,22,1660646.0,76
